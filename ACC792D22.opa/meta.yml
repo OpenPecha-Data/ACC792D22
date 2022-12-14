@@ -1,0 +1,22 @@
+id: ACC792D22
+title: Toh_309-The_Sutra_on_Impermanence-v1
+type: translation
+pechas:
+- IB2CF3FF5
+- I108D3EF0
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-07-24T18:33:01.625Z'
+  creationid: celso
+  eft-text-id: UT22084-072-009
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_309-The_Sutra_on_Impermanence-v1
+alignment_to_base:
+  IB2CF3FF5/AC42: '1666'
+  I108D3EF0/B131: '1666'
